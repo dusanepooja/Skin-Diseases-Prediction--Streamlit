@@ -47,8 +47,7 @@ Output: The predicted disease and its confidence level are displayed in a user-f
 Follow these steps to use the application locally:
 
 1. Clone the Repository
-git clone https://github.com/skin-disease-prediction-streamlit.git  
-cd skin-disease-prediction-streamlit   
+https://github.com/dusanepooja/Skin-Diseases-Prediction--Streamlit 
 2. Install Required Dependencies
 Make sure you have Python 3.8 or later installed. Then, run:
 pip install -r requirements.txt  
@@ -58,5 +57,5 @@ Download the pre-trained model weights (my_model.weights.h5) and place them in t
 Run the Streamlit app with:
 streamlit run app.py  
 
-🎯 Contributors
+🎯 Contributor
 Pooja Ramakant Dusane
