@@ -26,15 +26,24 @@ Pre-Trained Model: MobileNet V2 fine-tuned for skin disease classification.
 Image Processing: Pillow (PIL) and NumPy for preprocessing the input images.
 
 📜 Dataset
-The model is trained on a dataset of skin disease images sourced from Kaggle. The dataset includes the following eight classes of skin diseases:
+The model is trained on a dataset of skin disease images sourced from Kaggle.
+The dataset was sourced from: https://www.kaggle.com/datasets/subirbiswas19/skin-disease-dataset
+The dataset includes the following eight classes of skin diseases:
 
 Cellulitis (Bacterial Infection)
+
 Impetigo (Bacterial Infection)
+
 Athlete's Foot (Fungal Infection)
+
 Nail Fungus (Fungal Infection)
+
 Ringworm (Fungal Infection)
+
 Cutaneous Larva Migrans (Parasitic Infection)
+
 Chickenpox (Viral Infection)
+
 Shingles (Viral Infection)
 
 🧠 How It Works
@@ -58,4 +67,5 @@ Run the Streamlit app with:
 streamlit run app.py  
 
 🎯 Contributor
+
 Pooja Ramakant Dusane
